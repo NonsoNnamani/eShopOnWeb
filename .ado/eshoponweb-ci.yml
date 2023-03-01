@@ -29,7 +29,11 @@ stages:
       inputs:
         command: 'build'
         projects: '**/*.sln'
-    
+
+    - task: NuGetToolInstaller@1
+      inputs:
+        versionSpec: '5'
+
 #   - task: DotNetCoreCLI@2
 #     displayName: Test
 #     inputs:
