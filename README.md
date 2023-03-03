@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
+[![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions) [![Build Status](https://dev.azure.com/EngrNonsoDevOps/eShopOnWeb%20External%20Source%20Control/_apis/build/status/NonsoNnamani.eShopOnWeb?branchName=main)](https://dev.azure.com/EngrNonsoDevOps/eShopOnWeb%20External%20Source%20Control/_build/latest?definitionId=33&branchName=main) [![Build Status](https://dev.azure.com/EngrNonsoDevOps/eShopOnWeb%20External%20Source%20Control/_apis/build/status/eShopOnWeb%20External%20Source%20Control-ASP.NET%20Core-CI?branchName=main)](https://dev.azure.com/EngrNonsoDevOps/eShopOnWeb%20External%20Source%20Control/_build/latest?definitionId=34&branchName=main)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
